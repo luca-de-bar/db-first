@@ -6,7 +6,7 @@
 - chilometraggio -> MEDIUMINT
 - targa -> VARCHAR(7) -> UNIQUE
 - cambio -> VARCHAR(10) 
-- numero_porte -> TINYINT(9)
+- numero_porte -> TINYINT
 - anno_prima_immatricolazione -> YEAR
-- potenzaKW -> TINYINT(200)
+- potenzaKW -> TINYINT
 - prezzo -> DECIMAL (6,2)
